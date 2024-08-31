@@ -47,7 +47,7 @@ Below is a few open source projects that make fine-tunning FLUX easier:
 - [ ] Produce voice using tool like [11Labs](https://elevenlabs.io/)
 - [ ] Using tool like [PIKA Lab](https://pika.art/home) to generate video in lip sync mode to match the voice 
 
-
+Congrats! Your loneliness is officially cured... or at least it's taken a vacation!
 
 
 
