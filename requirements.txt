@@ -1,0 +1,10 @@
+transformers
+diffusers
+torch
+sentencepiece
+numpy
+Pillow
+scipy
+scikit-learn
+protobuf
+accelerate
