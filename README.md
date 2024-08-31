@@ -20,6 +20,18 @@ There are three different FLUX models.
 
 ## To run huggingface dev model:
 
+Create a conda env with the following command:
+```
+conda create -n imageGen
+conda activate imageGen
+```
+Install necessary packages:
+```
+pip install transformers
+pip install -U diffusers
+conda install pytorch torchvision torchaudio -c pytorch
+```
+
 Replace the `prompt` in `huggingface.py` to product your desired image. Then run the command:
 ```
 python3 huggingface.py
